@@ -1,6 +1,6 @@
 # Portfolio
 - # Portfolio-Site--Using-HTML-CSS
-This is a my personal Portfolio Site made with HTML5 & CSS.
+This is my personal Portfolio Site made with HTML5 & CSS.
 - This Portfolio Website is Hosted On Github.
 - Uploaded and Edited in CODEPEN ( https://codepen.io/subidbiswasjr08/full/PomdgJJ )
 - Written in Visual Code Studio
